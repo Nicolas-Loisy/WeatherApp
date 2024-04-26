@@ -12,6 +12,11 @@ Titre : Météo Alert
 
 Programmation Avancée : [ JS/ReactNative/Node ]
 
+## Diagramme UML
+
+Diagramme de classe de l'application météo :
+![Diagramme de classe](Documentation/diagramme_classe.jpg)
+
 ## Installation
 
 Clonez le dépôt GitHub : `git clone https://github.com/Nicolas-Loisy/MeteoApp.git`
